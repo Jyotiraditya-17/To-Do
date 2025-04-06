@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david",
+      "password": "david11",
+      "email": "david@outlook.com"
+    },
+    {
+      "id": "900c",
+      "name": "",
+      "email": "abc@gmail.com",
+      "password": "Jyoti@111",
+      "userid": "Jyoti"
+    },
+    {
+      "id": "b865",
+      "name": "Jyoti",
+      "password": "1234",
+      "email": "abc@gmail.com",
+      "userid": ""
+    }
+  ],
+  "appointments": [
+    {
+      "id": "2",
+      "title": "Submit Project Document",
+      "date": "2025-04-18",
+      "userid": "david"
+    },
+    {
+      "id": "3",
+      "title": "Screening Test",
+      "date": "2025-03-19",
+      "userid": "john_nit"
+    },
+    {
+      "id": "3f51",
+      "title": "Tour to Ramoji",
+      "date": "2025-04-25",
+      "userid": "Jyoti"
+    },
+    {
+      "id": "8d6d",
+      "title": "Come back from Home",
+      "date": "2025-03-27",
+      "userid": "john_nit"
+    },
+    {
+      "id": "6847",
+      "title": "Internship",
+      "date": "2025-04-07",
+      "userid": ""
+    }
+  ]
+}
